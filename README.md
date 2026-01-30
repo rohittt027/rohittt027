@@ -48,6 +48,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rohittt027/rohittt027/output/snake.svg" alt="Snake animation" />
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ###
