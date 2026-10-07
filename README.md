@@ -31,7 +31,7 @@
 
 
 
-<h2 align="left">🛠 Languages & Tools:-</h2>
+<h2 align="left">🛠 Languages & Tools</h2>
 
 ###
 
@@ -65,7 +65,7 @@
 
 
 
-## 🌐 Connect With Me-:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar-6292b839a) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitkaithwaria99@gmal.com) 
 # 📊 GitHub Stats:
