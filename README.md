@@ -7,7 +7,9 @@
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Matrix Coding" />
+  <h2>⚡ Building the Future, One Line at a Time ⚡</h2>
+  <img src="https://media.giphy.com/media/3rUbeDiLFMtAOIBErf/giphy.gif" width="450" alt="Matrix Coding" />
+  <p><i>System status: Compiling dreams into code...</i></p>
 </div>
 
 ###
