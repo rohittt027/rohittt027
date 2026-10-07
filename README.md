@@ -5,11 +5,11 @@
 <p align="left">ℙ𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖  𝕒𝕓𝕠𝕦𝕥  𝕗𝕦𝕝𝕝  𝕤𝕥𝕒𝕔𝕜  𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥</p>
 
 ###
-
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Matrix Coding" />
+  <img src="dream-ladder.jpg" width="320" alt="Dream Mindset Motivation" style="border-radius: 10px;"/>
+  <br>
+  <em>"Start with the right Mentality to reach your Dream."</em>
 </div>
-
 ###
 
 <h2 align="left">👨‍💻 About Me</h2>
