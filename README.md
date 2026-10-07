@@ -6,8 +6,8 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"  />
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Matrix Coding" />
 </div>
 
 ###
