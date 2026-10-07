@@ -16,7 +16,15 @@
 
 ###
 
-<p align="left">🎓 𝙱𝙲𝙰 𝚂𝚝𝚞𝚍𝚎𝚗𝚝 | 𝙰𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧<br>🌱 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙋𝙮𝙩𝙝𝙤𝙣, 𝘿𝙎𝘼, 𝙃𝙏𝙈𝙇 & 𝘾𝙎𝙎<br>🔥 𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 & 𝘾𝙤𝙧𝙚 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜<br>🛠️ 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚜𝚖𝚊𝚕𝚕 𝚋𝚞𝚝 𝙢𝙚𝙖𝙣𝙞𝙣𝙜𝙛𝙪𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨<br>🎲 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: 𝙱𝚞𝚐𝚜 𝚊𝚛𝚎 𝚖𝚢 𝙗𝙚𝙨𝙩 𝙩𝙚𝙖𝙘𝙝𝙚𝙧𝙨</p>
+<p align="left">🎓 BCA | Tech Enthusiast
+
+📌 Stack: Python • Java/C • HTML/CSS • DSA
+
+🎯 Mission: Problem Solving & Full-Stack Development
+
+📂 Check out my latest repositories below 👇
+
+💡 Eat. Sleep. Code. Debug. Repeat.</p>
 
 ###
 
