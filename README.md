@@ -24,7 +24,8 @@
 
 📂 Check out my latest repositories below 👇
 
-💡 Eat. Sleep. Code. Debug. Repeat.</p>
+💡 Eat. Sleep. Code. Debug. Repeat.
+</p>
 
 ###
 
